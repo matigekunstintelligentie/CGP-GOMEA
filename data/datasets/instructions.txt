@@ -1,0 +1,15 @@
+Datasets can be found at https://archive.ics.uci.edu/ml/datasets.php
+Datasets may require some reformatting
+
+The format is as follows:
+
+#samples,#inputs
+column headers
+data
+
+Mock dataset +
+3,2,
+"input l","input r","target"
+1,2,3
+4,9,13
+3,6,9
