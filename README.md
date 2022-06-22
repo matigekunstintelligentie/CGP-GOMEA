@@ -12,3 +12,5 @@ Use the following commands to run:
 cmake .
 make
 ./dCGP
+
+To reproduce PPSN 2022 results use tag 1.0
